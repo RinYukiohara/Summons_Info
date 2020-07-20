@@ -52,7 +52,7 @@ Coming soon
 # Multi
 
 6★ Saber Kanata Hyuuga 
-6★ <:shielder:732856543133040699 Galahad 
+6★ Shielder Galahad 
 6★ Caster Misera 
 6★ Caster Solomon 
 5★ Saber Artoria 
