@@ -4,9 +4,13 @@ This is a list of each servant capable of being summoned in each Gacha pool.
 
 # Roll
 
+A single roll that sends a picture of the servant you’ve summoned and one of the two pools you can get a 6★ servant.
+
 Coming soon
 
 # Ticket
+
+A guaranteed 5★ servant.
 
 5★ Saber Artoria 
 
@@ -87,6 +91,8 @@ Coming soon
 5★ Foreigner Voyager
 
 # Multi
+
+A roll where you can summon up to ten servants and one of the two pools you can get a 6★ servant.
 
 6★ Saber Kanata Hyuuga 
 
@@ -548,6 +554,8 @@ Coming soon
 
 # Craft Essence
 
+The only pool to get 4-5★ Craft Essences.
+
 4★ Iron-Willed Training
 
 4★ Primeval Curse 
@@ -775,6 +783,8 @@ Coming soon
 5★ The Wandering Tales of Shana-oh 
 
 # Class Specific
+
+A class specific pool where you can get 3-5★ servants.
 
 ## Saber
 
@@ -1196,6 +1206,8 @@ Coming soon
 
 ## Tales
 
+Servants from the Tales of Crestoria Collaboration.
+
 4★ Saber Ickx Nieves 
 
 4★ Saber Yuri Lowell 
@@ -1253,4 +1265,3 @@ Coming soon
 4★ Alter Ego Kocis  
 
 4★ Alter Ego Karia Neamhaim
-
