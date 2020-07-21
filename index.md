@@ -86,7 +86,6 @@ Coming soon
 
 5★ Foreigner Voyager
 
-
 # Multi
 
 6★ Saber Kanata Hyuuga 
@@ -505,6 +504,48 @@ Coming soon
 
 4★ Foreigner K. Pasca 
 
+3★ Saber Gaius Julius Caesar 
+
+3★ Saber Gilles de Rais 
+
+3★ Saber Bedivere 
+
+3★ Archer Robin Hood 
+
+3★ Archer Euryale 
+
+3★ Archer Billy the Kid 
+
+3★ Lancer Hector 
+
+3★ Lancer Diarmuid 
+
+3★ Lancer Jaguar Man 
+
+3★ Caster Medea 
+
+3★ Caster Mephistopheles 
+
+3★ Caster Paracelsus 
+
+3★ Rider Medusa 
+
+3★ Rider Boudica 
+
+3★ Rider Ushiwakamaru 
+
+3★ Assassin Jekll 
+
+3★ Assassin Jing Ke 
+
+3★ Assassin Fūma Kotarō 
+
+3★ Berserker Lu Bu Fengxian 
+
+3★ Berserker Darius 111 
+
+3★ Berserker Kiyohime
+
 # Craft Essence
 
 4★ Iron-Willed Training
@@ -791,6 +832,12 @@ Coming soon
 
 4★ Saber Elizabeth Báthory
 
+3★ Saber Gaius Julius Caesar 
+
+3★ Saber Gilles de Rais 
+
+3★ Saber Bedivere 
+
 ## Archer
 
 5★ Archer Napoleon 
@@ -833,6 +880,12 @@ Coming soon
 
 4★ Archer Osakabehime
 
+3★ Archer Robin Hood 
+
+3★ Archer Euryale 
+
+3★ Archer Billy the Kid 
+
 ## Lancer
 
 5★ Lancer Enkidu 
@@ -870,6 +923,12 @@ Coming soon
 4★ Lancer Nagao Kagetora 
 
 4★ Lancer Utsumi Erice
+
+3★ Lancer Hector 
+
+3★ Lancer Diarmuid 
+
+3★ Lancer Jaguar Man 
 
 ## Caster
 
@@ -923,6 +982,12 @@ Coming soon
 
 4★ Caster Gilgamesh
 
+3★ Caster Medea 
+
+3★ Caster Mephistopheles 
+
+3★ Caster Paracelsus 
+
 ## Rider
 
 5★ Rider Francis Drake 
@@ -960,6 +1025,12 @@ Coming soon
 4★ Rider Artoria 
 
 4★ Rider Mordred
+
+3★ Rider Medusa 
+
+3★ Rider Boudica 
+
+3★ Rider Ushiwakamaru 
 
 ## Assassin
 
@@ -1005,6 +1076,12 @@ Coming soon
 
 4★ Assassin Grey
 
+3★ Assassin Jekll 
+
+3★ Assassin Jing Ke 
+
+3★ Assassin Fūma Kotarō 
+
 ## Berserker
 
 5★ Berserker Arjuna Alter 
@@ -1045,6 +1122,12 @@ Coming soon
 
 4★ Berserker Kijyo Kouyou
 
+3★ Berserker Lu Bu Fengxian 
+
+3★ Berserker Darius III
+
+3★ Berserker Kiyohime
+
 ## Ruler
 
 5★ Ruler Jeanne 
@@ -1070,6 +1153,8 @@ Coming soon
 4★ Avenger Gorgon 
 
 4★ Avenger Hessian Lobo
+
+3★ Avenger Antonio Salieri
 
 ## Moon Cancer
 
